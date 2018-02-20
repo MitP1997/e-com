@@ -1,2 +1,3 @@
-# e-com
-An e-commerce website for eyewear built in php
+# E-Commerce
+
+An e-commerce website for eyewear developed in php
